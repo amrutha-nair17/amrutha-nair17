@@ -1,16 +1,25 @@
-## Hi there 👋
+ 👋 Hi, I'm Amrutha
 
-<!--
-**amrutha-nair17/amrutha-nair17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 *Business Analyst | Finance & Technology*  
+📊 Passionate about transforming raw data into clear insights.  
+🔍 Skilled in *SQL, Power BI, Excel*, and financial analysis.  
+🚀 I love solving business problems with data-driven thinking.
 
-Here are some ideas to get you started:
+## 🔧 Tech & Tools
+- *SQL* (MySQL, PostgreSQL)  
+- *Power BI* (Dashboards, DAX, Data Modelling)  
+- *Excel* (Advanced analysis, automation)  
+- *Python* (Basics for data)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What I Do
+- Build interactive *Power BI dashboards*  
+- Perform *financial & business analysis*  
+- Turn data into stories that drive decisions  
+- Bridge the gap between *business and technology*
+
+## 📫 Connect With Me
+📧 amruthapnair31@gmail.com
+   www.linkedin.com/in/amrutha-p-99a7a530b
+
+
+
